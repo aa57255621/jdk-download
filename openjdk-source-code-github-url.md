@@ -1,7 +1,3 @@
-# jdk-download
-各种免费jdk版本下载地址、源码（Various free JDK versions to download、source code）
-
-
 // oralce官方开源 openjdk 下载地址 (oracle openjdk downlad)
 https://jdk.java.net/archive/
 // oralce官方开源 openjdk 源码地址 （oracle openjdk source code）
